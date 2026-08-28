@@ -1,0 +1,7 @@
+docling<3,>=2.70
+httpx[socks]<1,>=0.28
+jsonschema<5,>=4.23
+langgraph<2,>=0.6
+pydantic<3,>=2.10
+pypdf<7,>=5.7
+pymupdf<2,>=1.26

@@ -1,0 +1,37 @@
+# Python
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.pytest-*/
+**/.mypy_cache/
+**/.ruff_cache/
+*.py[cod]
+.coverage
+coverage/
+
+# Frontend
+**/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+
+# Local configuration and runtime output
+**/.env
+**/.env.local
+**/.env.production
+!**/.env.example
+*.log
+output/
+backend/generated/
+backend/uploads/
+backend/var/
+backend/submission_agent.db
+backend/knowledge_base_runtime/infrastructure/file-storage/data/pdfs/
+backend/knowledge_base_runtime/infrastructure/file-storage/data/uploads/
+
+# IDE and OS
+.idea/
+.vscode/
+.trae/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+services:
+  backend:
+    build:
+      context: ../..
+      dockerfile: agent-system/docker/Dockerfile
+    environment:
+      ACADEMIC_TRANSLATION_ROOT: /app
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://host.docker.internal:11434}
+      # PDFMathTranslate reads OLLAMA_HOST directly.  Do not inherit the
+      # host-shell value (often 127.0.0.1), which would point back into this
+      # container rather than to the local Ollama service.
+      OLLAMA_HOST: http://host.docker.internal:11434
+      OLLAMA_TRANSLATION_MODEL: ${OLLAMA_TRANSLATION_MODEL:-translategemma:12b}
+      PDF2ZH_COMMAND: ${PDF2ZH_COMMAND:-pdf2zh}
+    ports: ["8000:8000"]
+    volumes:
+      - ../../agent-core/outputs:/app/agent-core/outputs

@@ -1,0 +1,2 @@
+[console_scripts]
+academic-translation-agent = academic_translation.cli:main
