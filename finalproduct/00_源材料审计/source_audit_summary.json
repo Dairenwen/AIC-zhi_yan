@@ -1,0 +1,133 @@
+{
+  "generated_at_utc": "2026-09-14T14:42:51.549474+00:00",
+  "source_root": "E:\\华为比赛\\AIC\\srcproduct",
+  "total_files": 963,
+  "total_bytes": 257384056,
+  "extension_counts": {
+    ".css": 5,
+    ".csv": 1,
+    ".docx": 6,
+    ".example": 8,
+    ".html": 6,
+    ".ini": 3,
+    ".ipynb": 1,
+    ".jpg": 3,
+    ".js": 33,
+    ".json": 26,
+    ".lock": 1,
+    ".log": 2,
+    ".mako": 1,
+    ".md": 51,
+    ".mjs": 3,
+    ".mp4": 1,
+    ".pdf": 5,
+    ".png": 12,
+    ".pptx": 1,
+    ".ps1": 2,
+    ".py": 657,
+    ".sh": 4,
+    ".svg": 1,
+    ".toml": 8,
+    ".ts": 24,
+    ".txt": 28,
+    ".vue": 38,
+    ".xlsx": 1,
+    ".yaml": 15,
+    ".yml": 2,
+    "[no extension]": 14
+  },
+  "artifact_inspection": [
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/01—参赛信息/01—参赛信息.pdf",
+      "kind": "pdf",
+      "pages": 3,
+      "text_chars": 2,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/04—作品方案/作品方案.pdf",
+      "kind": "pdf",
+      "pages": 25,
+      "text_chars": 13656,
+      "identity_matches": 28
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/05—作品代码/技术报告.pdf",
+      "kind": "pdf",
+      "pages": 108,
+      "text_chars": 80705,
+      "identity_matches": 40
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/07—其他材料/微调模型专业能力测试报告.pdf",
+      "kind": "pdf",
+      "pages": 5,
+      "text_chars": 2944,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/XH-202620_面向一流学科建设的学科垂类大模型与创新应用开发.pdf",
+      "kind": "pdf",
+      "pages": 15,
+      "text_chars": 7209,
+      "identity_matches": 11
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/03—作品Demo/Demo体验地址.docx",
+      "kind": "docx",
+      "text_chars": 135,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/03—作品Demo/文档说明.docx",
+      "kind": "docx",
+      "text_chars": 1821,
+      "identity_matches": 1
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/05—作品代码/技术报告.docx",
+      "kind": "docx",
+      "text_chars": 70284,
+      "identity_matches": 41
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/05—作品代码/模型文件ServiceID.docx",
+      "kind": "docx",
+      "text_chars": 118,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/06—效果验证报告/真实用户试用效果验证报告.docx",
+      "kind": "docx",
+      "text_chars": 3102,
+      "identity_matches": 5
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/07—其他材料/调查问卷链接.docx",
+      "kind": "docx",
+      "text_chars": 73,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/04—作品方案/作品方案.pptx",
+      "kind": "pptx",
+      "slides": 25,
+      "text_chars": 112141,
+      "identity_matches": 28
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/07—其他材料/智能科研Agent用户使用反馈调查问卷统计表.xlsx",
+      "kind": "xlsx",
+      "worksheets": 1,
+      "nonempty_cells": 1,
+      "identity_matches": 0
+    },
+    {
+      "path": "武汉理工大学—学科垂类大模型与创新应用开发—智研——面向人工智能学科科研全流程赋能的垂类大模型应用系统/06—效果验证报告/项目演示视频（智研）.mp4",
+      "kind": "mp4",
+      "bytes": 152727543,
+      "metadata_error": "ModuleNotFoundError"
+    }
+  ],
+  "finding_count": 80
+}
