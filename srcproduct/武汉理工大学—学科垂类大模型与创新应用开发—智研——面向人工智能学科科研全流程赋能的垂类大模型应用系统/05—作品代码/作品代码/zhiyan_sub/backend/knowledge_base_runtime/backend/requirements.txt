@@ -1,0 +1,14 @@
+# Runtime stack used by the local PostgreSQL + Elasticsearch + Milvus backend.
+fastapi>=0.111
+uvicorn[standard]>=0.30
+sqlalchemy>=2.0
+psycopg[binary]>=3.1
+elasticsearch>=9.4
+pymilvus>=3.0
+milvus-lite>=3.0
+minio>=7.2
+pymupdf>=1.24
+celery>=5.4
+redis>=5.0
+# Embedding and reranking are served by configured HTTP APIs; local Torch and
+# FlagEmbedding are not required for normal knowledge-base runtime.
